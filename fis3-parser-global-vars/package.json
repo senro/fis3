@@ -1,0 +1,54 @@
+{
+  "name": "fis3-parser-global-vars",
+  "version": "0.0.1",
+  "description": "可在fis-conf里配置文件的globalVars全局变量属性，传对象，编译式会自动替换文件里的{{变量名}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaola-team/fis3-parser-global-vars.git"
+  },
+  "keywords": [
+    "fis3",
+    "parser",
+    "global-vars",
+    "fis-global-vars"
+  ],
+  "author": {
+    "name": "senro"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kaola-team/fis3-parser-global-vars/issues"
+  },
+  "homepage": "https://github.com/kaola-team/fis3-parser-global-vars",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "fis3": "^3.0.17",
+    "mocha": "^2.2.5"
+  },
+  "_id": "fis3-parser-global-vars@0.0.1",
+  "_shasum": "278dd8ab60350d5ee1b563aec162b1558e8ba6bb",
+  "_from": "fis3-parser-global-vars@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.3",
+  "_npmUser": {
+    "name": "senro",
+    "email": "584233821@qq.com"
+  },
+  "dist": {
+    "shasum": "278dd8ab60350d5ee1b563aec162b1558e8ba6bb",
+    "tarball": "http://registry.npmjs.org/fis3-parser-global-vars/-/fis3-parser-global-vars-0.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "senro",
+      "email": "584233821@qq.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/fis3-parser-global-vars/-/fis3-parser-global-vars-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
